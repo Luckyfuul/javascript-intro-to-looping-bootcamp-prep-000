@@ -13,7 +13,7 @@ function whileLoop(n) {
     return "done"
     
   }
-function doWhileloop(array){
+function doWhileLoop(array){
   do {--array}
   while (array.length > 0 && maybeTrue())
   
